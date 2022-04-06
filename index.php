@@ -21,8 +21,8 @@
     <title>Corona Tracker</title>
 </head>
 <body>
-    <div class="container-fluid bg-light text-center p-5 my-3">
-        <h1>Covid-19 Tracker</h1>
+    <div class="container-fluid bg-dark text-center p-5 my-3">
+        <h1>Corona Tracker</h1>
         <h5 class="text-muted">An opensource project to keep track of all the cases of covid 19 around the world.</h5>
     </div>
 <div class="container my-5">
